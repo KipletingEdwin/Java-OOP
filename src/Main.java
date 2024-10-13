@@ -8,6 +8,7 @@ public class Main {
         Pen p = new Pen();
 
         System.out.println(p.color);
+        System.out.println(p.point);
 
 
     }
