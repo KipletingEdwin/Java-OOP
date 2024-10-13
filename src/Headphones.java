@@ -14,6 +14,13 @@ public class Headphones {
     public  static  void  powerOff(){
         power = false;
     }
+    public  static  void volumeUp(){
+        volume++;
+    }
+
+    public  static  void volumeDown(){
+        volume--;
+    }
 
 
 }
