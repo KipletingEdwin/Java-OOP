@@ -10,7 +10,7 @@ public class Pen {
         clicked = true;
     }
 
-    public  static  void  unclicked(){
+    public  static  void  unclick(){
         clicked = false;
     }
 }
