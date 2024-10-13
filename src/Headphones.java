@@ -7,5 +7,13 @@ public class Headphones {
     static  boolean power = false;
     static  int volume = 0;
 
+    public  static  void  powerOn(){
+        power = true;
+    }
+
+    public  static  void  powerOff(){
+        power = false;
+    }
+
 
 }
