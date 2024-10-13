@@ -9,4 +9,8 @@ public class Pen {
     public  static  void  click(){
         clicked = true;
     }
+
+    public  static  void  unclicked(){
+        clicked = false;
+    }
 }
